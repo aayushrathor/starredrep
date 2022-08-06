@@ -9,6 +9,7 @@
 - [C++](#c++)
 - [Go](#go)
 - [Groovy](#groovy)
+- [Haskell](#haskell)
 - [JavaScript](#javascript)
 - [Others](#others)
 - [Python](#python)
@@ -34,6 +35,10 @@
 ## Groovy 
 
 - [bregman-arie/devops-resources](https://github.com/bregman-arie/devops-resources) - DevOps resources - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP
+
+## Haskell 
+
+- [erebe/greenclip](https://github.com/erebe/greenclip) - Simple clipboard manager to be integrated with rofi - Static binary available
 
 ## JavaScript 
 
