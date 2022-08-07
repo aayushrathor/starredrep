@@ -77,7 +77,7 @@
 
 ## Vim script 
 
-- [aayushrathor/dotfiles](https://github.com/aayushrathor/dotfiles) - 
+- [aayushrathor/dotfiles](https://github.com/aayushrathor/dotfiles) - Dotfiles for my arch bspwm rice
 
 
 ## License
