@@ -16,6 +16,7 @@
 - [Rust](#rust)
 - [Shell](#shell)
 - [Swift](#swift)
+- [TypeScript](#typescript)
 - [Vim script](#vim-script)
 
 ## C 
@@ -42,6 +43,7 @@
 
 ## JavaScript 
 
+- [HamishMW/portfolio](https://github.com/HamishMW/portfolio) - My personal portfolio website built using React and three js
 - [yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) - 💯 Curated coding interview preparation materials for busy software engineers
 - [microsoft/devops-project-samples](https://github.com/microsoft/devops-project-samples) - Sample applications for Azure DevOps Project
 - [algorithm-visualizer/algorithm-visualizer](https://github.com/algorithm-visualizer/algorithm-visualizer) - :fireworks:Interactive Online Platform that Visualizes Algorithms from Code
@@ -74,6 +76,10 @@
 ## Swift 
 
 - [3lvis/Networking](https://github.com/3lvis/Networking) - Easy HTTP Networking in Swift a NSURLSession wrapper with image caching support
+
+## TypeScript 
+
+- [NuroDev/nuro.dev](https://github.com/NuroDev/nuro.dev) - 🌿  Personal Portfolio
 
 ## Vim script 
 
