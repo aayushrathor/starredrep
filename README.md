@@ -17,7 +17,6 @@
 - [Shell](#shell)
 - [Swift](#swift)
 - [TypeScript](#typescript)
-- [Vim script](#vim-script)
 
 ## C 
 
@@ -60,6 +59,7 @@
 ## Python 
 
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
+- [aayushrathor/dotfiles](https://github.com/aayushrathor/dotfiles) - 🌩 Dotfiles of arch bspwm managed with stow.
 - [Akuli/python-tutorial](https://github.com/Akuli/python-tutorial) - A Python 3 programming tutorial for beginners.
 
 ## Rust 
@@ -80,10 +80,6 @@
 ## TypeScript 
 
 - [NuroDev/nuro.dev](https://github.com/NuroDev/nuro.dev) - 🌿  Personal Portfolio
-
-## Vim script 
-
-- [aayushrathor/dotfiles](https://github.com/aayushrathor/dotfiles) - 🌩 Dotfiles of arch bspwm managed with stow.
 
 
 ## License
