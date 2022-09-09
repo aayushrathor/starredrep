@@ -39,7 +39,7 @@
 
 ## HCL 
 
-- [xcad2k/boilerplates](https://github.com/xcad2k/boilerplates) - Templates and configurations for various projects and deployment scenarios
+- [xcad2k/boilerplates](https://github.com/xcad2k/boilerplates) - This is my personal template collection. Here you'll find templates, and configurations for various tools, and technologies.
 
 ## Haskell 
 
