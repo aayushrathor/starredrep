@@ -54,6 +54,7 @@
 
 ## Python 
 
+- [appvia/tf2helm](https://github.com/appvia/tf2helm) - Converts a Terraform module to a Helm Chart
 - [techiescamp/python-for-devops](https://github.com/techiescamp/python-for-devops) - Python for DevOps repo with useful python scripts to learn and implement in your day-to-day devops automation tasks.
 - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
 - [topydo/topydo](https://github.com/topydo/topydo) - A powerful todo list application for the console, using the todo.txt format.
@@ -68,6 +69,7 @@
 
 ## Shell 
 
+- [luksa/kubectl-plugins](https://github.com/luksa/kubectl-plugins) - My own plugins for kubectl
 - [lnfnunes/bash-progress-indicator](https://github.com/lnfnunes/bash-progress-indicator) - Animated progress indicator for Bash scripts
 - [beyond9thousand/dotfiles](https://github.com/beyond9thousand/dotfiles) - Opinionated BSPWM setup
 - [aayushrathor/dotfiles](https://github.com/aayushrathor/dotfiles) - 🌩 Dotfiles of arch bspwm managed with stow.
