@@ -43,6 +43,7 @@
 
 ## Others 
 
+- [jondot/rust-how-do-i-start](https://github.com/jondot/rust-how-do-i-start) - Hand curated advice and pointers for getting started with Rust
 - [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
 - [tomhuang12/awesome-k8s-resources](https://github.com/tomhuang12/awesome-k8s-resources) - A curated list of awesome Kubernetes tools and resources.
 - [ismet55555/Certified-Kubernetes-Administrator-Notes](https://github.com/ismet55555/Certified-Kubernetes-Administrator-Notes) - https://www.cncf.io/certification/cka/
