@@ -10,6 +10,7 @@
 - [Groovy](#groovy)
 - [HCL](#hcl)
 - [JavaScript](#javascript)
+- [Lua](#lua)
 - [Others](#others)
 - [Python](#python)
 - [Rust](#rust)
@@ -41,6 +42,10 @@
 - [microsoft/devops-project-samples](https://github.com/microsoft/devops-project-samples) - Sample applications for Azure DevOps Project
 - [algorithm-visualizer/algorithm-visualizer](https://github.com/algorithm-visualizer/algorithm-visualizer) - :fireworks:Interactive Online Platform that Visualizes Algorithms from Code
 
+## Lua 
+
+- [anasrar/.dotfiles](https://github.com/anasrar/.dotfiles) - my dotfiles over the years
+
 ## Others 
 
 - [jondot/rust-how-do-i-start](https://github.com/jondot/rust-how-do-i-start) - Hand curated advice and pointers for getting started with Rust
@@ -70,6 +75,7 @@
 
 ## Shell 
 
+- [ornicar/dotfiles](https://github.com/ornicar/dotfiles) - My beloved Linux dot files for zsh, tmux, git, tig, vim, mpd, mutt, rtorrent, weechat, xmonad, urxvt, vimperator, ranger...
 - [luksa/kubectl-plugins](https://github.com/luksa/kubectl-plugins) - My own plugins for kubectl
 - [lnfnunes/bash-progress-indicator](https://github.com/lnfnunes/bash-progress-indicator) - Animated progress indicator for Bash scripts
 - [beyond9thousand/dotfiles](https://github.com/beyond9thousand/dotfiles) - Opinionated BSPWM setup
