@@ -72,6 +72,7 @@
 
 ## Rust 
 
+- [tfpk/macrokata](https://github.com/tfpk/macrokata) - Learn Macros In Rust
 - [rust-lang/rustlings](https://github.com/rust-lang/rustlings) - :crab: Small exercises to get you used to reading and writing Rust code!
 - [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) - A curated list of Rust code and resources.
 
