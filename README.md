@@ -97,6 +97,8 @@
 
 ## Shell 
 
+- [b4skyx/dotfiles](https://github.com/b4skyx/dotfiles) - My personal linux dotfiles
+- [b4skyx/unix-scripts](https://github.com/b4skyx/unix-scripts) - 
 - [ramitsurana/awesome-kubernetes](https://github.com/ramitsurana/awesome-kubernetes) - A curated list for awesome kubernetes sources :ship::tada:
 - [codefresh-contrib/gitops-certification-examples](https://github.com/codefresh-contrib/gitops-certification-examples) - Examples for the GitOps certification
 - [ornicar/dotfiles](https://github.com/ornicar/dotfiles) - My beloved Linux dot files for zsh, tmux, git, tig, vim, mpd, mutt, rtorrent, weechat, xmonad, urxvt, vimperator, ranger...
