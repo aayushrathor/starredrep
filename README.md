@@ -59,6 +59,7 @@
 
 ## Others 
 
+- [WeMakeDevs/roadmaps](https://github.com/WeMakeDevs/roadmaps) - This repository contains the list of communities and job portals you can join and apply to.
 - [veggiemonk/awesome-docker](https://github.com/veggiemonk/awesome-docker) - :whale: A curated list of Docker resources and projects
 - [kelseyhightower/kubernetes-the-hard-way](https://github.com/kelseyhightower/kubernetes-the-hard-way) - Bootstrap Kubernetes the hard way on Google Cloud Platform. No scripts.
 - [ianstormtaylor/awesome-heroku](https://github.com/ianstormtaylor/awesome-heroku) - A curated list of helpful Heroku resources.
@@ -97,6 +98,7 @@
 
 ## Shell 
 
+- [aayushrathor/dotfiles](https://github.com/aayushrathor/dotfiles) - 🌩 Dotfiles of arch bspwm managed with stow.
 - [jayywolff/dotfiles](https://github.com/jayywolff/dotfiles) - Config files for Linux, i3-gaps, polybar, vim, tmux, zsh, alacritty, rofi & more
 - [b4skyx/dotfiles](https://github.com/b4skyx/dotfiles) - My personal linux dotfiles
 - [b4skyx/unix-scripts](https://github.com/b4skyx/unix-scripts) - 
@@ -106,7 +108,6 @@
 - [luksa/kubectl-plugins](https://github.com/luksa/kubectl-plugins) - My own plugins for kubectl
 - [lnfnunes/bash-progress-indicator](https://github.com/lnfnunes/bash-progress-indicator) - Animated progress indicator for Bash scripts
 - [beyond9thousand/dotfiles](https://github.com/beyond9thousand/dotfiles) - Opinionated BSPWM setup
-- [aayushrathor/dotfiles](https://github.com/aayushrathor/dotfiles) - 🌩 Dotfiles of arch bspwm managed with stow.
 - [MichaelCade/90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps) - This repository is my documenting repository for learning the world of DevOps. I started this journey on the 1st January 2022 and I plan to run to March 31st for a complete 90-day romp on spending an 
 - [janleigh/dotfiles](https://github.com/janleigh/dotfiles) - My desktop configuration files.
 
