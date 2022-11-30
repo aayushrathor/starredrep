@@ -19,6 +19,7 @@
 - [Shell](#shell)
 - [Swift](#swift)
 - [TypeScript](#typescript)
+- [Vim Script](#vim-script)
 
 ## C 
 
@@ -43,10 +44,12 @@
 
 ## HTML 
 
+- [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 - [collabnix/kubetools](https://github.com/collabnix/kubetools) - Kubetools - Curated List of Kubernetes Tools
 
 ## JavaScript 
 
+- [PavelDoGreat/WebGL-Fluid-Simulation](https://github.com/PavelDoGreat/WebGL-Fluid-Simulation) - Play with fluids in your browser (works even on mobile)
 - [joellord/k8s-course](https://github.com/joellord/k8s-course) - Code for my Egghead  course on Kubernetes
 - [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (November 2022)
 - [microsoft/devops-project-samples](https://github.com/microsoft/devops-project-samples) - Sample applications for Azure DevOps Project
@@ -123,6 +126,10 @@
 - [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Follow to stay updated about our public Beta.
 - [aws/aws-cdk](https://github.com/aws/aws-cdk) - The AWS Cloud Development Kit is a framework for defining cloud infrastructure in code
 - [NuroDev/nuro.dev](https://github.com/NuroDev/nuro.dev) - 🌿  Personal Portfolio
+
+## Vim Script 
+
+- [neovim/neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability
 
 
 ## License
