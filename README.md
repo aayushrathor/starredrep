@@ -63,6 +63,7 @@
 
 ## Lua 
 
+- [sdushantha/dotfiles](https://github.com/sdushantha/dotfiles) - my dotfiles
 - [closebox73/Scorpio](https://github.com/closebox73/Scorpio) - A Conky themes pack
 - [anasrar/.dotfiles](https://github.com/anasrar/.dotfiles) - my dotfiles over the years
 
@@ -107,6 +108,7 @@
 
 ## Shell 
 
+- [dmi3/bin](https://github.com/dmi3/bin) - Useful scripts and configs for Linux users
 - [aayushrathor/dotfiles](https://github.com/aayushrathor/dotfiles) - 🌩 Dotfiles of arch bspwm managed with stow.
 - [jayywolff/dotfiles](https://github.com/jayywolff/dotfiles) - Config files for Linux, i3-gaps, polybar, vim, tmux, zsh, alacritty, rofi & more
 - [b4skyx/dotfiles](https://github.com/b4skyx/dotfiles) - My personal linux dotfiles
