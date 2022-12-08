@@ -13,6 +13,7 @@
 - [HTML](#html)
 - [JavaScript](#javascript)
 - [Lua](#lua)
+- [Nix](#nix)
 - [Others](#others)
 - [Python](#python)
 - [Rust](#rust)
@@ -56,6 +57,7 @@
 
 ## JavaScript 
 
+- [qunash/chatgpt-advanced](https://github.com/qunash/chatgpt-advanced) - A browser extension that augments your ChatGPT prompts with web results.
 - [PavelDoGreat/WebGL-Fluid-Simulation](https://github.com/PavelDoGreat/WebGL-Fluid-Simulation) - Play with fluids in your browser (works even on mobile)
 - [joellord/k8s-course](https://github.com/joellord/k8s-course) - Code for my Egghead  course on Kubernetes
 - [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (November 2022)
@@ -67,6 +69,10 @@
 - [sdushantha/dotfiles](https://github.com/sdushantha/dotfiles) - my dotfiles
 - [closebox73/Scorpio](https://github.com/closebox73/Scorpio) - A Conky themes pack
 - [anasrar/.dotfiles](https://github.com/anasrar/.dotfiles) - my dotfiles over the years
+
+## Nix 
+
+- [hlissner/dotfiles](https://github.com/hlissner/dotfiles) - And I say hey, what's going on?
 
 ## Others 
 
