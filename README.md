@@ -17,6 +17,7 @@
 - [Lua](#lua)
 - [Nix](#nix)
 - [Others](#others)
+- [Perl](#perl)
 - [Python](#python)
 - [Rust](#rust)
 - [SCSS](#scss)
@@ -68,6 +69,7 @@
 
 ## JavaScript 
 
+- [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [qunash/chatgpt-advanced](https://github.com/qunash/chatgpt-advanced) - A browser extension that augments your ChatGPT prompts with web results.
 - [PavelDoGreat/WebGL-Fluid-Simulation](https://github.com/PavelDoGreat/WebGL-Fluid-Simulation) - Play with fluids in your browser (works even on mobile)
 - [joellord/k8s-course](https://github.com/joellord/k8s-course) - Code for my Egghead  course on Kubernetes
@@ -102,6 +104,10 @@
 - [Avik-Jain/100-Days-Of-ML-Code](https://github.com/Avik-Jain/100-Days-Of-ML-Code) - 100 Days of ML Coding
 - [Developer-Y/cs-video-courses](https://github.com/Developer-Y/cs-video-courses) - List of Computer Science courses with video lectures.
 - [ytbryan/devops-resources](https://github.com/ytbryan/devops-resources) - A collection of beginner-friendly DevOps content
+
+## Perl 
+
+- [ThePrimeagen/.dotfiles](https://github.com/ThePrimeagen/.dotfiles) - 
 
 ## Python 
 
