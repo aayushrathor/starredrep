@@ -36,6 +36,7 @@
 
 ## CSS 
 
+- [iamverysimp1e/dots](https://github.com/iamverysimp1e/dots) - My own customization + configuration for Linux 🐧
 - [elkowar/dots-of-war](https://github.com/elkowar/dots-of-war) - My dotfiles, mostly. This is the wild west. don't expect to understand this mess. Don't try to understand this mess. This serves as a good way to backup my configs, nothing more.
 
 ## Fennel 
