@@ -95,6 +95,7 @@
 
 ## Others 
 
+- [rockerBOO/awesome-neovim](https://github.com/rockerBOO/awesome-neovim) - Collections of awesome neovim plugins.
 - [InterviewReady/system-design-resources](https://github.com/InterviewReady/system-design-resources) - These are the best resources for System Design on the Internet
 - [steveazz/awesome-slo](https://github.com/steveazz/awesome-slo) - Curated list of resources on SLOs
 - [mthenw/awesome-layers](https://github.com/mthenw/awesome-layers) - λ A curated list of awesome AWS Lambda Layers. Sponsored by https://cloudash.dev
@@ -155,7 +156,7 @@
 - [luksa/kubectl-plugins](https://github.com/luksa/kubectl-plugins) - My own plugins for kubectl
 - [lnfnunes/bash-progress-indicator](https://github.com/lnfnunes/bash-progress-indicator) - Animated progress indicator for Bash scripts
 - [beyond9thousand/dotfiles](https://github.com/beyond9thousand/dotfiles) - Opinionated BSPWM setup
-- [MichaelCade/90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps) - This repository is my documenting repository for learning the world of DevOps. I started this journey on the 1st January 2022 and I plan to run to March 31st for a complete 90-day romp on spending an 
+- [MichaelCade/90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps) - I am using this repository to document my journey learning about DevOps. I began this process on January 1, 2022, and plan to continue until March 31. I will be dedicating one hour each day, including
 - [janleigh/dotfiles](https://github.com/janleigh/dotfiles) - My desktop configuration files.
 
 ## Swift 
