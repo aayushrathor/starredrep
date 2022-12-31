@@ -82,6 +82,7 @@
 
 ## Lua 
 
+- [ye-junzhe/BetterNvim](https://github.com/ye-junzhe/BetterNvim) - A Modern Neovim setup, makes nvim an IDE.
 - [kylechui/nvim-surround](https://github.com/kylechui/nvim-surround) - Add/change/delete surrounding delimiter pairs with ease. Written with :heart: in Lua.
 - [Abstract-IDE/Abstract](https://github.com/Abstract-IDE/Abstract) - neovim as an IDE
 - [AlphaTechnolog/nixdots](https://github.com/AlphaTechnolog/nixdots) - My NixOS Configuration! Flakes + Home Manager + Nix = Power
