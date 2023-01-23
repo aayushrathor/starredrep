@@ -107,6 +107,7 @@
 
 ## Others 
 
+- [shadcn/ui](https://github.com/shadcn/ui) - UI components that you can copy and paste into your apps. Built using Radix UI and Tailwind CSS.
 - [techiescamp/kubernetes-learning-path](https://github.com/techiescamp/kubernetes-learning-path) - A roadmap to learn Kubernetes from scratch (Beginner to Advanced level)
 - [rohitg00/DevOpsCommunity](https://github.com/rohitg00/DevOpsCommunity) - DevOps/SRE community is for those folks who are trying to learn or explore DevOps with the help of experienced professionals. Opportunities are open to share.
 - [distributethe6ix/70DaysOfServiceMesh](https://github.com/distributethe6ix/70DaysOfServiceMesh) - Inspired by Michael Cades' #90DaysOfDevOps and his ask for me to participate in his 2023 iteration to discuss 7 Days of Service Mesh, I decided to create a #70DaysOfServiceMesh.
