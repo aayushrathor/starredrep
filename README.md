@@ -17,6 +17,7 @@
 - [Haskell](#haskell)
 - [JavaScript](#javascript)
 - [Lua](#lua)
+- [Makefile](#makefile)
 - [Nix](#nix)
 - [Others](#others)
 - [Perl](#perl)
@@ -43,7 +44,6 @@
 
 ## CSS 
 
-- [iamverysimp1e/dots](https://github.com/iamverysimp1e/dots) - My own customization + configuration for Linux 🐧
 - [elkowar/dots-of-war](https://github.com/elkowar/dots-of-war) - My dotfiles, mostly. This is the wild west. don't expect to understand this mess. Don't try to understand this mess. This serves as a good way to backup my configs, nothing more.
 
 ## Fennel 
@@ -86,7 +86,6 @@
 
 - [GitbookIO/gitbook](https://github.com/GitbookIO/gitbook) - 📝 Modern documentation format and toolchain using Git and Markdown
 - [serverless/examples](https://github.com/serverless/examples) - Serverless Examples – A collection of boilerplates and examples of serverless architectures built with the Serverless Framework on AWS Lambda, Microsoft Azure, Google Cloud Functions, and more.
-- [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [PavelDoGreat/WebGL-Fluid-Simulation](https://github.com/PavelDoGreat/WebGL-Fluid-Simulation) - Play with fluids in your browser (works even on mobile)
 - [joellord/k8s-course](https://github.com/joellord/k8s-course) - Code for my Egghead  course on Kubernetes
 - [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (November 2022)
@@ -105,6 +104,10 @@
 - [nvim-lua/kickstart.nvim](https://github.com/nvim-lua/kickstart.nvim) - A launch point for your personal nvim configuration
 - [sdushantha/dotfiles](https://github.com/sdushantha/dotfiles) - my dotfiles
 - [anasrar/.dotfiles](https://github.com/anasrar/.dotfiles) - my dotfiles over the years
+
+## Makefile 
+
+- [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 
 ## Nix 
 
@@ -150,6 +153,7 @@
 
 ## Python 
 
+- [iamverysimp1e/dots](https://github.com/iamverysimp1e/dots) - My own customization + configuration for Linux 🐧
 - [acheong08/ChatGPT](https://github.com/acheong08/ChatGPT) - Lightweight package for interacting with ChatGPT's API by OpenAI. Uses reverse engineered official API.
 - [stephanGarland/intro-to-x](https://github.com/stephanGarland/intro-to-x) - Introduction to various tech, mostly Kubernetes
 - [appvia/tf2helm](https://github.com/appvia/tf2helm) - Converts a Terraform module to a Helm Chart
