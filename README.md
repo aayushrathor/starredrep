@@ -103,6 +103,7 @@
 - [ThePrimeagen/init.lua](https://github.com/ThePrimeagen/init.lua) - 
 - [nvim-lua/kickstart.nvim](https://github.com/nvim-lua/kickstart.nvim) - A launch point for your personal nvim configuration
 - [sdushantha/dotfiles](https://github.com/sdushantha/dotfiles) - my dotfiles
+- [aayushrathor/dotfiles](https://github.com/aayushrathor/dotfiles) - 🌩 Dotfiles of arch bspwm managed with stow.
 - [anasrar/.dotfiles](https://github.com/anasrar/.dotfiles) - my dotfiles over the years
 
 ## Makefile 
@@ -154,7 +155,7 @@
 ## Python 
 
 - [iamverysimp1e/dots](https://github.com/iamverysimp1e/dots) - My own customization + configuration for Linux 🐧
-- [acheong08/ChatGPT](https://github.com/acheong08/ChatGPT) - Reverse engineered ChatGPT API. Uses official model same as the website.
+- [acheong08/ChatGPT](https://github.com/acheong08/ChatGPT) - Reverse engineered ChatGPT API
 - [stephanGarland/intro-to-x](https://github.com/stephanGarland/intro-to-x) - Introduction to various tech, mostly Kubernetes
 - [appvia/tf2helm](https://github.com/appvia/tf2helm) - Converts a Terraform module to a Helm Chart
 - [techiescamp/python-for-devops](https://github.com/techiescamp/python-for-devops) - Python for DevOps repo with useful python scripts to learn and implement in your day-to-day devops automation tasks.
@@ -182,7 +183,6 @@
 
 - [cpina/github-action-push-to-another-repository](https://github.com/cpina/github-action-push-to-another-repository) - github Action to push files into another Github repository
 - [dmi3/bin](https://github.com/dmi3/bin) - Useful scripts and configs for Linux users
-- [aayushrathor/dotfiles](https://github.com/aayushrathor/dotfiles) - 🌩 Dotfiles of arch bspwm managed with stow.
 - [jayywolff/dotfiles](https://github.com/jayywolff/dotfiles) - Config files for Linux, i3-gaps, polybar, vim, tmux, zsh, alacritty, rofi & more
 - [b4skyx/dotfiles](https://github.com/b4skyx/dotfiles) - My personal linux dotfiles
 - [b4skyx/unix-scripts](https://github.com/b4skyx/unix-scripts) - 
