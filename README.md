@@ -52,6 +52,7 @@
 
 ## Go 
 
+- [josephspurrier/gowebapp](https://github.com/josephspurrier/gowebapp) - Basic MVC Web Application in Go
 - [devtron-labs/devtron](https://github.com/devtron-labs/devtron) - Tool integration platform for Kubernetes
 - [komodorio/helm-dashboard](https://github.com/komodorio/helm-dashboard) - The missing UI for Helm - visualize your releases
 - [m1guelpf/chatgpt-telegram](https://github.com/m1guelpf/chatgpt-telegram) - Run your own GPTChat Telegram bot, with a single command!
@@ -155,6 +156,7 @@
 
 ## Python 
 
+- [arc53/DocsGPT](https://github.com/arc53/DocsGPT) - GPT-powered chat for documentation search & assistance.
 - [iamverysimp1e/dots](https://github.com/iamverysimp1e/dots) - My own customization + configuration for Linux 🐧
 - [acheong08/ChatGPT](https://github.com/acheong08/ChatGPT) - Reverse engineered ChatGPT API
 - [stephanGarland/intro-to-x](https://github.com/stephanGarland/intro-to-x) - Introduction to various tech, mostly Kubernetes
@@ -168,6 +170,7 @@
 
 ## Rust 
 
+- [actix/examples](https://github.com/actix/examples) - Community showcase and examples of Actix ecosystem usage.
 - [fathyb/carbonyl](https://github.com/fathyb/carbonyl) - Chromium running inside your terminal
 - [tweedegolf/101-rs](https://github.com/tweedegolf/101-rs) - A Rust university course
 - [google/comprehensive-rust](https://github.com/google/comprehensive-rust) - This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust to everyone.
