@@ -157,7 +157,7 @@
 ## Python 
 
 - [arc53/DocsGPT](https://github.com/arc53/DocsGPT) - GPT-powered chat for documentation search & assistance.
-- [iamverysimp1e/dots](https://github.com/iamverysimp1e/dots) - My own customization + configuration for Linux 🐧
+- [iamverysimp1e/dots](https://github.com/iamverysimp1e/dots) - My  customization + configuration for Linux 🐧
 - [acheong08/ChatGPT](https://github.com/acheong08/ChatGPT) - Reverse engineered ChatGPT API
 - [stephanGarland/intro-to-x](https://github.com/stephanGarland/intro-to-x) - Introduction to various tech, mostly Kubernetes
 - [appvia/tf2helm](https://github.com/appvia/tf2helm) - Converts a Terraform module to a Helm Chart
