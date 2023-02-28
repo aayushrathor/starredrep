@@ -122,6 +122,7 @@
 
 ## Others 
 
+- [simhol/awesome-azure](https://github.com/simhol/awesome-azure) - An awesome list of azure related resources.
 - [TutorialEdge/Go](https://github.com/TutorialEdge/Go) - A Master list of Go Programming Tutorials, their write-ups, their source code and their current build status!
 - [In4n1s357/Linux-Security-and-Hardening-Security-Guide](https://github.com/In4n1s357/Linux-Security-and-Hardening-Security-Guide) - Linux Security and Hardening Security Guide
 - [sathishvj/awesome-gcp-certifications](https://github.com/sathishvj/awesome-gcp-certifications) - Google Cloud Platform Certification resources.
