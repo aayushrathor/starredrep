@@ -53,6 +53,7 @@
 
 ## Go 
 
+- [one2nc/cloudlens](https://github.com/one2nc/cloudlens) - k9s like CLI for AWS
 - [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
 - [josephspurrier/gowebapp](https://github.com/josephspurrier/gowebapp) - Basic MVC Web Application in Go
 - [devtron-labs/devtron](https://github.com/devtron-labs/devtron) - Tool integration platform for Kubernetes
@@ -92,7 +93,7 @@
 - [serverless/examples](https://github.com/serverless/examples) - Serverless Examples – A collection of boilerplates and examples of serverless architectures built with the Serverless Framework on AWS Lambda, Microsoft Azure, Google Cloud Functions, and more.
 - [PavelDoGreat/WebGL-Fluid-Simulation](https://github.com/PavelDoGreat/WebGL-Fluid-Simulation) - Play with fluids in your browser (works even on mobile)
 - [joellord/k8s-course](https://github.com/joellord/k8s-course) - Code for my Egghead  course on Kubernetes
-- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (November 2022)
+- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (March 2023)
 - [microsoft/devops-project-samples](https://github.com/microsoft/devops-project-samples) - Sample applications for Azure DevOps Project
 - [algorithm-visualizer/algorithm-visualizer](https://github.com/algorithm-visualizer/algorithm-visualizer) - :fireworks:Interactive Online Platform that Visualizes Algorithms from Code
 
