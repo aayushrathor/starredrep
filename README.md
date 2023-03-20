@@ -54,6 +54,7 @@
 
 ## Go 
 
+- [ContainerSSH/ContainerSSH](https://github.com/ContainerSSH/ContainerSSH) - ContainerSSH: Launch containers on demand
 - [one2nc/cloudlens](https://github.com/one2nc/cloudlens) - k9s like CLI for AWS
 - [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
 - [josephspurrier/gowebapp](https://github.com/josephspurrier/gowebapp) - Basic MVC Web Application in Go
