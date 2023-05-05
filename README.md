@@ -142,6 +142,8 @@
 
 ## Others 
 
+- [Mooler0410/LLMsPracticalGuide](https://github.com/Mooler0410/LLMsPracticalGuide) - A curated list of practical guide resources of LLMs (LLMs Tree, Examples, Papers)
+- [Hannibal046/Awesome-LLM](https://github.com/Hannibal046/Awesome-LLM) - Awesome-LLM: a curated list of Large Language Model
 - [joseadanof/awesome-cloudnative-trainings](https://github.com/joseadanof/awesome-cloudnative-trainings) - Awesome Trainings from Cloud Native Computing Foundation Projects and Kubernetes related software
 - [simhol/awesome-azure](https://github.com/simhol/awesome-azure) - An awesome list of azure related resources.
 - [TutorialEdge/Go](https://github.com/TutorialEdge/Go) - A Master list of Go Programming Tutorials, their write-ups, their source code and their current build status!
