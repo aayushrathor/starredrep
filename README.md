@@ -104,6 +104,7 @@
 
 ## JavaScript 
 
+- [knadh/localStorageDB](https://github.com/knadh/localStorageDB) - A simple database layer for localStorage and sessionStorage for creating structured data in the form of databases and tables
 - [conventional-changelog/standard-version](https://github.com/conventional-changelog/standard-version) - :trophy: Automate versioning and CHANGELOG generation, with semver.org and conventionalcommits.org
 - [adambard/learnxinyminutes-docs](https://github.com/adambard/learnxinyminutes-docs) - Code documentation written as code! How novel and totally my idea!
 - [serverless-stack/sst](https://github.com/serverless-stack/sst) - 💥 SST makes it easy to build full-stack serverless apps.
