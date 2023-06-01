@@ -5,6 +5,7 @@
 
 ## Contents
 
+- [Blade](#blade)
 - [C](#c)
 - [C++](#c++)
 - [CSS](#css)
@@ -30,6 +31,10 @@
 - [Swift](#swift)
 - [TypeScript](#typescript)
 - [Vim Script](#vim-script)
+
+## Blade 
+
+- [openchatai/OpenChat](https://github.com/openchatai/OpenChat) - Run and create custom ChatGPT-like bots with OpenChat, embed and share these bots anywhere, the open-source chatbot console.
 
 ## C 
 
