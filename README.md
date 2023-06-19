@@ -107,6 +107,7 @@
 
 ## JavaScript 
 
+- [koajs/koa](https://github.com/koajs/koa) - Expressive middleware for node.js using ES2017 async functions
 - [hasura/3factor-example](https://github.com/hasura/3factor-example) - Canonical example of building a 3factor app : a food ordering application
 - [knadh/localStorageDB](https://github.com/knadh/localStorageDB) - A simple database layer for localStorage and sessionStorage for creating structured data in the form of databases and tables
 - [conventional-changelog/standard-version](https://github.com/conventional-changelog/standard-version) - :trophy: Automate versioning and CHANGELOG generation, with semver.org and conventionalcommits.org
@@ -255,7 +256,7 @@
 
 ## Swift 
 
-- [3lvis/Networking](https://github.com/3lvis/Networking) - Easy HTTP Networking in Swift a NSURLSession wrapper with image caching support
+- [3lvis/Networking](https://github.com/3lvis/Networking) - Swift HTTP Networking with stubbing and caching support
 
 ## TypeScript 
 
