@@ -19,6 +19,7 @@
 - [JavaScript](#javascript)
 - [Jupyter Notebook](#jupyter-notebook)
 - [Lua](#lua)
+- [MDX](#mdx)
 - [Makefile](#makefile)
 - [Nix](#nix)
 - [Others](#others)
@@ -122,7 +123,6 @@
 ## Jupyter Notebook 
 
 - [openai/openai-cookbook](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API
-- [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 🐙 Guides, papers, lecture, notebooks and resources for prompt engineering
 
 ## Lua 
 
@@ -140,6 +140,10 @@
 - [aayushrathor/dotfiles](https://github.com/aayushrathor/dotfiles) - 🌩 Dotfiles of arch bspwm managed with stow.
 - [anasrar/.dotfiles](https://github.com/anasrar/.dotfiles) - my dotfiles over the years
 
+## MDX 
+
+- [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 🐙 Guides, papers, lecture, notebooks and resources for prompt engineering
+
 ## Makefile 
 
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
@@ -156,7 +160,7 @@
 - [joseadanof/awesome-cloudnative-trainings](https://github.com/joseadanof/awesome-cloudnative-trainings) - Awesome Trainings from Cloud Native Computing Foundation Projects and Kubernetes related software
 - [simhol/awesome-azure](https://github.com/simhol/awesome-azure) - An awesome list of azure related resources.
 - [TutorialEdge/Go](https://github.com/TutorialEdge/Go) - A Master list of Go Programming Tutorials, their write-ups, their source code and their current build status!
-- [In4n1s357/Linux-Security-and-Hardening-Security-Guide](https://github.com/In4n1s357/Linux-Security-and-Hardening-Security-Guide) - Linux Security and Hardening Security Guide
+- [r0x0000000000000000/Linux-Security-and-Hardening-Security-Guide](https://github.com/r0x0000000000000000/Linux-Security-and-Hardening-Security-Guide) - Linux Security and Hardening Security Guide
 - [sathishvj/awesome-gcp-certifications](https://github.com/sathishvj/awesome-gcp-certifications) - Google Cloud Platform Certification resources.
 - [Samsar4/Ethical-Hacking-Labs](https://github.com/Samsar4/Ethical-Hacking-Labs) - Practical Ethical Hacking Labs 🗡🛡
 - [techiescamp/kubernetes-learning-path](https://github.com/techiescamp/kubernetes-learning-path) - A roadmap to learn Kubernetes from scratch (Beginner to Advanced level)
