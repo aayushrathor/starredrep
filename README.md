@@ -160,7 +160,7 @@
 - [joseadanof/awesome-cloudnative-trainings](https://github.com/joseadanof/awesome-cloudnative-trainings) - Awesome Trainings from Cloud Native Computing Foundation Projects and Kubernetes related software
 - [simhol/awesome-azure](https://github.com/simhol/awesome-azure) - An awesome list of azure related resources.
 - [TutorialEdge/Go](https://github.com/TutorialEdge/Go) - A Master list of Go Programming Tutorials, their write-ups, their source code and their current build status!
-- [r0x0000000000000000/Linux-Security-and-Hardening-Security-Guide](https://github.com/r0x0000000000000000/Linux-Security-and-Hardening-Security-Guide) - Linux Security and Hardening Security Guide
+- [r0x000000000033/Linux-Security-and-Hardening-Security-Guide](https://github.com/r0x000000000033/Linux-Security-and-Hardening-Security-Guide) - Linux Security and Hardening Security Guide
 - [sathishvj/awesome-gcp-certifications](https://github.com/sathishvj/awesome-gcp-certifications) - Google Cloud Platform Certification resources.
 - [Samsar4/Ethical-Hacking-Labs](https://github.com/Samsar4/Ethical-Hacking-Labs) - Practical Ethical Hacking Labs 🗡🛡
 - [techiescamp/kubernetes-learning-path](https://github.com/techiescamp/kubernetes-learning-path) - A roadmap to learn Kubernetes from scratch (Beginner to Advanced level)
