@@ -2,7 +2,7 @@ name: update awesome-stars
 on:
   workflow_dispatch:
   schedule:
-  - cron: 0 10 * * 0-6
+  - cron: 0 10 * * 1-5
 jobs:
   awesome-stars:
     name: update awesome-stars
@@ -20,4 +20,4 @@ jobs:
     - name: update repo
       env:
         TOKEN: ${{ secrets.TOKEN }}
-      run: starred --username aayushrathor --repository starredrep --sort --token ${TOKEN} --message 'updated stars'
+      run: starred --username aayushrathor --repository starredrep --sort --token ${TOKEN} --message "feat(cron) -> update github stars"
