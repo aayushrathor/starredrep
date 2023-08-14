@@ -166,6 +166,7 @@
 
 ## Others 
 
+- [joonspk-research/generative_agents](https://github.com/joonspk-research/generative_agents) - Generative Agents: Interactive Simulacra of Human Behavior
 - [kdeldycke/awesome-falsehood](https://github.com/kdeldycke/awesome-falsehood) - 😱 Falsehoods Programmers Believe in
 - [eugeneyan/open-llms](https://github.com/eugeneyan/open-llms) - 📋 A list of open LLMs available for commercial use.
 - [MunGell/awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) - A list of awesome beginners-friendly projects.
