@@ -107,6 +107,7 @@
 
 ## JavaScript 
 
+- [replicate/llama-chat](https://github.com/replicate/llama-chat) - A boilerplate for creating a Llama 2 chat app
 - [30-seconds/30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code) - Short code snippets for all your development needs
 - [dosyago/DiskerNet](https://github.com/dosyago/DiskerNet) - 💾 DiskerNet - Your Internet Archived to Your Disk
 - [ThePrimeagen/fem-algos-2](https://github.com/ThePrimeagen/fem-algos-2) - The Last Algorithm Class You Want
@@ -214,6 +215,7 @@
 
 ## Python 
 
+- [mlc-ai/mlc-llm](https://github.com/mlc-ai/mlc-llm) - Enable everyone to develop, optimize and deploy AI models natively on everyone's devices.
 - [yvann-hub/Robby-chatbot](https://github.com/yvann-hub/Robby-chatbot) - AI chatbot 🤖 for chat with CSV, PDF, TXT files 📄 and YTB videos 🎥 | using Langchain🦜 | OpenAI | Streamlit ⚡
 - [KillianLucas/open-interpreter](https://github.com/KillianLucas/open-interpreter) - OpenAI's Code Interpreter in your terminal, running locally
 - [silvanmelchior/IncognitoPilot](https://github.com/silvanmelchior/IncognitoPilot) - An AI code interpreter for sensitive data, powered by GPT-4 or Code Llama / Llama 2.
@@ -308,6 +310,7 @@
 
 ## TypeScript 
 
+- [mlc-ai/web-llm](https://github.com/mlc-ai/web-llm) - Bringing large-language models and chat to web browsers. Everything runs inside the browser with no server support.
 - [novuhq/novu](https://github.com/novuhq/novu) - The open-source notification infrastructure with fully functional embedded notification center
 - [getumbrel/llama-gpt](https://github.com/getumbrel/llama-gpt) - A self-hosted, offline, ChatGPT-like chatbot. Powered by Llama 2. 100% private, with no data leaving your device. New: Code Llama support!
 - [immich-app/immich](https://github.com/immich-app/immich) - Self-hosted photo and video backup solution directly from your mobile phone.
