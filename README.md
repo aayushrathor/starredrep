@@ -43,6 +43,7 @@
 
 ## C++ 
 
+- [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - gpt4all: open-source LLM chatbots that you can run anywhere
 - [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland) - Hyprland is a highly customizable dynamic tiling Wayland compositor that doesn't sacrifice on its looks.
 - [JoseExposito/touchegg](https://github.com/JoseExposito/touchegg) - Linux multi-touch gesture recognizer
 
@@ -92,6 +93,7 @@
 
 ## HTML 
 
+- [geekan/MetaGPT](https://github.com/geekan/MetaGPT) - 🌟 The Multi-Agent Framework: Given one line Requirement, return PRD, Design, Tasks, Repo
 - [docker/awesome-compose](https://github.com/docker/awesome-compose) - Awesome Docker Compose samples
 - [hnasr/javascript_playground](https://github.com/hnasr/javascript_playground) - Javascript playground tutorials
 - [go101/go101](https://github.com/go101/go101) - An up-to-date (unofficial) knowledge base for Go programming self learning
@@ -109,7 +111,7 @@
 
 - [replicate/llama-chat](https://github.com/replicate/llama-chat) - A boilerplate for creating a Llama 2 chat app
 - [30-seconds/30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code) - Short code snippets for all your development needs
-- [dosyago/DiskerNet](https://github.com/dosyago/DiskerNet) - 💾 DiskerNet - Your Internet Archived to Your Disk
+- [dosyago/DownloadNet](https://github.com/dosyago/DownloadNet) - 💾 DownloadNet - All content your browse online available offline. Search through the full-text of all pages in your browser history.
 - [ThePrimeagen/fem-algos-2](https://github.com/ThePrimeagen/fem-algos-2) - The Last Algorithm Class You Want
 - [koajs/koa](https://github.com/koajs/koa) - Expressive middleware for node.js using ES2017 async functions
 - [hasura/3factor-example](https://github.com/hasura/3factor-example) - Canonical example of building a 3factor app : a food ordering application
@@ -146,7 +148,6 @@
 - [ThePrimeagen/init.lua](https://github.com/ThePrimeagen/init.lua) - 
 - [nvim-lua/kickstart.nvim](https://github.com/nvim-lua/kickstart.nvim) - A launch point for your personal nvim configuration
 - [sdushantha/dotfiles](https://github.com/sdushantha/dotfiles) - my dotfiles
-- [aayushrathor/dotfiles](https://github.com/aayushrathor/dotfiles) - 🌩 Dotfiles of arch bspwm managed with stow.
 - [anasrar/.dotfiles](https://github.com/anasrar/.dotfiles) - my dotfiles over the years
 
 ## MDX 
@@ -225,7 +226,6 @@
 - [lllyasviel/Fooocus](https://github.com/lllyasviel/Fooocus) - Focus on prompting and generating
 - [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui) - A Gradio web UI for Large Language Models. Supports transformers, GPTQ, llama.cpp (GGUF), Llama models.
 - [Lightning-AI/lit-llama](https://github.com/Lightning-AI/lit-llama) - Implementation of the LLaMA language model based on nanoGPT. Supports flash attention, Int8 and GPTQ 4bit quantization, LoRA and LLaMA-Adapter fine-tuning, pre-training. Apache 2.0-licensed.
-- [geekan/MetaGPT](https://github.com/geekan/MetaGPT) - 🌟 The Multi-Agent Framework: Given one line Requirement, return PRD, Design, Tasks, Repo
 - [facebookresearch/audiocraft](https://github.com/facebookresearch/audiocraft) - Audiocraft is a library for audio processing and generation with deep learning. It features the state-of-the-art EnCodec audio compressor / tokenizer, along with MusicGen, a simple and controllable mu
 - [modal-labs/devlooper](https://github.com/modal-labs/devlooper) - A program synthesis agent that autonomously fixes its output by running tests!
 - [PromtEngineer/localGPT](https://github.com/PromtEngineer/localGPT) - Chat with your documents on your local device using GPT models. No data leaves your device and 100% private.
@@ -288,6 +288,7 @@
 - [cpina/github-action-push-to-another-repository](https://github.com/cpina/github-action-push-to-another-repository) - github Action to push files into another Github repository
 - [druskus20/dots](https://github.com/druskus20/dots) - The dotfiles for my linux system •••
 - [dmi3/bin](https://github.com/dmi3/bin) - Useful scripts and configs for Linux users
+- [aayushrathor/dotfiles](https://github.com/aayushrathor/dotfiles) - 🌩 Dotfiles of arch bspwm managed with stow.
 - [jayywolff/dotfiles](https://github.com/jayywolff/dotfiles) - Config files for Linux, i3-gaps, polybar, vim, tmux, zsh, alacritty, rofi & more
 - [b4skyx/dotfiles](https://github.com/b4skyx/dotfiles) - My personal linux dotfiles
 - [b4skyx/unix-scripts](https://github.com/b4skyx/unix-scripts) - 
@@ -326,7 +327,7 @@
 - [nhost/nhost](https://github.com/nhost/nhost) - The Open Source Firebase Alternative with GraphQL.
 - [kriasoft/relay-starter-kit](https://github.com/kriasoft/relay-starter-kit) - 💥  Monorepo template (seed project) pre-configured with GraphQL API, PostgreSQL, React, Relay, Material UI.
 - [interstellard/chatgpt-advanced](https://github.com/interstellard/chatgpt-advanced) - WebChatGPT: A browser extension that augments your ChatGPT prompts with web results.
-- [withastro/astro](https://github.com/withastro/astro) - The all-in-one web framework designed for speed. ⭐️ Star to support our work!
+- [withastro/astro](https://github.com/withastro/astro) - The web framework that scales with you — Build fast content sites, powerful web applications, dynamic server APIs, and everything in-between ⭐️ Star to support our work!
 - [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
 - [t3-oss/create-t3-turbo](https://github.com/t3-oss/create-t3-turbo) - Clean and simple starter repo using the T3 Stack along with Expo React Native
 - [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Follow to stay updated about our public Beta.
