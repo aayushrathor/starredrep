@@ -10,6 +10,7 @@
 - [C++](#c++)
 - [CSS](#css)
 - [Dockerfile](#dockerfile)
+- [Fennel](#fennel)
 - [Go](#go)
 - [Groovy](#groovy)
 - [HCL](#hcl)
@@ -57,6 +58,10 @@
 
 - [appleboy/ssh-action](https://github.com/appleboy/ssh-action) - GitHub Actions for executing remote ssh commands.
 - [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (July 2023)
+
+## Fennel 
+
+- [druskus20/dots](https://github.com/druskus20/dots) - The dotfiles for my linux system •••
 
 ## Go 
 
@@ -292,7 +297,6 @@
 - [lukas-reineke/dotfiles](https://github.com/lukas-reineke/dotfiles) - My personal dotfiles. do not eat
 - [nikitavoloboev/config](https://github.com/nikitavoloboev/config) - Fish, Nix, Karabiner, VS Code
 - [cpina/github-action-push-to-another-repository](https://github.com/cpina/github-action-push-to-another-repository) - github Action to push files into another Github repository
-- [druskus20/dots](https://github.com/druskus20/dots) - The dotfiles for my linux system •••
 - [dmi3/bin](https://github.com/dmi3/bin) - Useful scripts and configs for Linux users
 - [aayushrathor/dotfiles](https://github.com/aayushrathor/dotfiles) - 🌩 Dotfiles of arch bspwm managed with stow.
 - [jayywolff/dotfiles](https://github.com/jayywolff/dotfiles) - Config files for Linux, i3-gaps, polybar, vim, tmux, zsh, alacritty, rofi & more
