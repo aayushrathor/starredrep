@@ -173,6 +173,7 @@
 
 ## Others 
 
+- [systemdesignfightclub/SDFC](https://github.com/systemdesignfightclub/SDFC) - 
 - [fffaraz/awesome-selfhosted-aws](https://github.com/fffaraz/awesome-selfhosted-aws) - A curated list of awesome self-hosted alternatives to Amazon Web Services (AWS)
 - [SimplifyJobs/New-Grad-Positions](https://github.com/SimplifyJobs/New-Grad-Positions) - A collection of New Grad full time roles in SWE, Quant, and PM.
 - [learnbyexample/vim_reference](https://github.com/learnbyexample/vim_reference) - :q   Vim reference guide for beginner to intermediate users
@@ -228,6 +229,7 @@
 
 ## Python 
 
+- [exentriquesolutions/nip.io](https://github.com/exentriquesolutions/nip.io) - 
 - [OpenBMB/ChatDev](https://github.com/OpenBMB/ChatDev) - Create Customized Software using Natural Language Idea (through LLM-powered Multi-Agent Collaboration)
 - [turboderp/exllama](https://github.com/turboderp/exllama) - A more memory-efficient rewrite of the HF transformers implementation of Llama for use with quantized weights.
 - [vllm-project/vllm](https://github.com/vllm-project/vllm) - A high-throughput and memory-efficient inference and serving engine for LLMs
@@ -289,6 +291,7 @@
 
 ## Shell 
 
+- [moovweb/gvm](https://github.com/moovweb/gvm) - Go Version Manager
 - [prasanthrangan/hyprdots](https://github.com/prasanthrangan/hyprdots) - // Aesthetic, dynamic and minimal dots for Arch hyprland
 - [gotbletu/shownotes](https://github.com/gotbletu/shownotes) - notes for videos from my youtube channel
 - [Deathemonic/SweetDots](https://github.com/Deathemonic/SweetDots) - 🍚 Dotfiles themed with SweetPastel 🎨
