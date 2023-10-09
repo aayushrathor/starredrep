@@ -118,7 +118,7 @@
 - [KaTeX/KaTeX](https://github.com/KaTeX/KaTeX) - Fast math typesetting for the web.
 - [replicate/llama-chat](https://github.com/replicate/llama-chat) - A boilerplate for creating a Llama 2 chat app
 - [30-seconds/30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code) - Short code snippets for all your development needs
-- [dosyago/DownloadNet](https://github.com/dosyago/DownloadNet) - 💾 DownloadNet - All content your browse online available offline. Search through the full-text of all pages in your browser history.
+- [dosyago/DownloadNet](https://github.com/dosyago/DownloadNet) - 💾 DownloadNet - All content your browse online available offline. Search through the full-text of all pages in your browser history. ⭐️ Star to support our work!
 - [ThePrimeagen/fem-algos-2](https://github.com/ThePrimeagen/fem-algos-2) - The Last Algorithm Class You Want
 - [koajs/koa](https://github.com/koajs/koa) - Expressive middleware for node.js using ES2017 async functions
 - [hasura/3factor-example](https://github.com/hasura/3factor-example) - Canonical example of building a 3factor app : a food ordering application
@@ -230,6 +230,8 @@
 
 ## Python 
 
+- [abacaj/fine-tune-mistral](https://github.com/abacaj/fine-tune-mistral) - Fine-tune mistral-7B on 3090s, a100s, h100s
+- [Pythagora-io/gpt-pilot](https://github.com/Pythagora-io/gpt-pilot) - Dev tool that writes scalable apps from scratch while the developer oversees the implementation
 - [exentriquesolutions/nip.io](https://github.com/exentriquesolutions/nip.io) - 
 - [OpenBMB/ChatDev](https://github.com/OpenBMB/ChatDev) - Create Customized Software using Natural Language Idea (through LLM-powered Multi-Agent Collaboration)
 - [turboderp/exllama](https://github.com/turboderp/exllama) - A more memory-efficient rewrite of the HF transformers implementation of Llama for use with quantized weights.
@@ -304,7 +306,7 @@
 - [FrenzyExists/wallpapers](https://github.com/FrenzyExists/wallpapers) - My personal Pick of wallpapers
 - [jessfraz/dotfiles](https://github.com/jessfraz/dotfiles) - My dotfiles. Buyer beware ;)
 - [lukas-reineke/dotfiles](https://github.com/lukas-reineke/dotfiles) - My personal dotfiles. do not eat
-- [nikitavoloboev/config](https://github.com/nikitavoloboev/config) - Fish, Nix, Karabiner, VS Code
+- [nikitavoloboev/config](https://github.com/nikitavoloboev/config) - Fish, Karabiner, Cursor
 - [cpina/github-action-push-to-another-repository](https://github.com/cpina/github-action-push-to-another-repository) - github Action to push files into another Github repository
 - [dmi3/bin](https://github.com/dmi3/bin) - Useful scripts and configs for Linux users
 - [aayushrathor/dotfiles](https://github.com/aayushrathor/dotfiles) - 🌩 Dotfiles of arch bspwm managed with stow.
