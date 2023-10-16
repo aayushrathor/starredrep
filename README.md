@@ -279,6 +279,7 @@
 
 ## Rust 
 
+- [huggingface/text-embeddings-inference](https://github.com/huggingface/text-embeddings-inference) - A blazing fast inference solution for text embeddings models
 - [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl) - Hurl, run and test HTTP requests with plain text.
 - [DvorakDwarf/Infinite-Storage-Glitch](https://github.com/DvorakDwarf/Infinite-Storage-Glitch) - ISG lets you use YouTube as cloud storage for ANY files, not just video
 - [actix/examples](https://github.com/actix/examples) - Community showcase and examples of Actix ecosystem usage.
@@ -334,6 +335,7 @@
 
 ## TypeScript 
 
+- [WorldBrain/Memex](https://github.com/WorldBrain/Memex) - Browser extension to curate, annotate, and discuss the most valuable content and ideas on the web. As individuals, teams and communities.
 - [codyogden/killedbygoogle](https://github.com/codyogden/killedbygoogle) - Part guillotine, part graveyard for Google's doomed apps, services, and hardware.
 - [tldraw/tldraw](https://github.com/tldraw/tldraw) - a very good whiteboard
 - [mlc-ai/web-llm](https://github.com/mlc-ai/web-llm) - Bringing large-language models and chat to web browsers. Everything runs inside the browser with no server support.
