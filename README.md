@@ -27,6 +27,7 @@
 - [Perl](#perl)
 - [PowerShell](#powershell)
 - [Python](#python)
+- [Rich Text Format](#rich-text-format)
 - [Rust](#rust)
 - [SCSS](#scss)
 - [Shell](#shell)
@@ -142,6 +143,7 @@
 
 ## Jupyter Notebook 
 
+- [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) - 12 Lessons, Get Started Building with Generative AI  🔗 https://microsoft.github.io/generative-ai-for-beginners/
 - [samwit/langchain-tutorials](https://github.com/samwit/langchain-tutorials) - A set of LangChain Tutorials from my youtube channel
 - [suno-ai/bark](https://github.com/suno-ai/bark) - 🔊 Text-Prompted Generative Audio Model
 - [camenduru/text-generation-webui-colab](https://github.com/camenduru/text-generation-webui-colab) - A colab gradio web UI for running Large Language Models
@@ -181,6 +183,7 @@
 
 ## Others 
 
+- [hyprland-community/awesome-hyprland](https://github.com/hyprland-community/awesome-hyprland) - Awesome list for Hyprland [maintainer=@yavko]
 - [SimplifyJobs/Summer2024-Internships](https://github.com/SimplifyJobs/Summer2024-Internships) - Collection of Summer 2024 tech internships!
 - [tompi/cheapino](https://github.com/tompi/cheapino) - 
 - [systemdesignfightclub/SDFC](https://github.com/systemdesignfightclub/SDFC) - Roadmap and Resource Compilation for System Design Fight Club
@@ -239,6 +242,8 @@
 
 ## Python 
 
+- [patrickloeber/snake-ai-pytorch](https://github.com/patrickloeber/snake-ai-pytorch) - 
+- [JayZeeDesign/researcher-gpt](https://github.com/JayZeeDesign/researcher-gpt) - 
 - [chatgpt/chart](https://github.com/chatgpt/chart) - ChartGPT is a lightweight, handy package to plot your pandas dataframe using natural language queries.
 - [run-llama/llama_index](https://github.com/run-llama/llama_index) - LlamaIndex (formerly GPT Index) is a data framework for your LLM applications
 - [ranaroussi/yfinance](https://github.com/ranaroussi/yfinance) - Download market data from Yahoo! Finance's API
@@ -289,6 +294,10 @@
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
 - [Akuli/python-tutorial](https://github.com/Akuli/python-tutorial) - A Python 3 programming tutorial for beginners.
 
+## Rich Text Format 
+
+- [langchain-ai/opengpts](https://github.com/langchain-ai/opengpts) - 
+
 ## Rust 
 
 - [huggingface/text-embeddings-inference](https://github.com/huggingface/text-embeddings-inference) - A blazing fast inference solution for text embeddings models
@@ -309,6 +318,7 @@
 
 ## Shell 
 
+- [shvedes/dotfiles](https://github.com/shvedes/dotfiles) - 
 - [moovweb/gvm](https://github.com/moovweb/gvm) - Go Version Manager
 - [prasanthrangan/hyprdots](https://github.com/prasanthrangan/hyprdots) - // Aesthetic, dynamic and minimal dots for Arch hyprland
 - [gotbletu/shownotes](https://github.com/gotbletu/shownotes) - notes for videos from my youtube channel
@@ -348,6 +358,7 @@
 
 ## TypeScript 
 
+- [BuilderIO/gpt-crawler](https://github.com/BuilderIO/gpt-crawler) - Crawl a site to generate knowledge files to create your own custom GPT from a URL
 - [SawyerHood/draw-a-ui](https://github.com/SawyerHood/draw-a-ui) - Draw a mockup and generate html for it
 - [AndrewWalsh/openapi-devtools](https://github.com/AndrewWalsh/openapi-devtools) - Chrome extension that generates API specs for any app or website
 - [run-llama/chat-llamaindex](https://github.com/run-llama/chat-llamaindex) - 
