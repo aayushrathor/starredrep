@@ -244,6 +244,8 @@
 
 ## Python 
 
+- [avgupta456/github-trends](https://github.com/avgupta456/github-trends) - 🚀 Level up your GitHub profile readme with customizable cards including LOC statistics!
+- [cheshire-cat-ai/core](https://github.com/cheshire-cat-ai/core) - Production ready AI assistant framework
 - [microsoft/TaskWeaver](https://github.com/microsoft/TaskWeaver) - A code-first agent framework for seamlessly planning and executing data analytics tasks.
 - [patrickloeber/snake-ai-pytorch](https://github.com/patrickloeber/snake-ai-pytorch) - 
 - [JayZeeDesign/researcher-gpt](https://github.com/JayZeeDesign/researcher-gpt) - 
