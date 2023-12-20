@@ -123,6 +123,7 @@
 
 ## JavaScript 
 
+- [jide/gpt-video](https://github.com/jide/gpt-video) - A reproduction of the Gemini demo using GPT-vision.
 - [markdown-it/markdown-it](https://github.com/markdown-it/markdown-it) - Markdown parser, done right. 100% CommonMark support, extensions, syntax plugins & high speed
 - [usebruno/bruno](https://github.com/usebruno/bruno) - Opensource IDE For Exploring and Testing Api's (lightweight alternative to postman/insomnia)
 - [philc/vimium](https://github.com/philc/vimium) - The hacker's browser.
