@@ -43,6 +43,7 @@
 
 ## C 
 
+- [kennylevinsen/wlsunset](https://github.com/kennylevinsen/wlsunset) - [mirror] Day/night gamma adjustments for Wayland (https://sr.ht/~kennylevinsen/wlsunset)
 - [AltraMayor/f3](https://github.com/AltraMayor/f3) - F3 - Fight Flash Fraud
 - [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp) - Port of Facebook's LLaMA model in C/C++
 - [davatorium/rofi](https://github.com/davatorium/rofi) - Rofi: A window switcher, application launcher and dmenu replacement
@@ -249,6 +250,7 @@
 
 ## Python 
 
+- [dvmazur/mixtral-offloading](https://github.com/dvmazur/mixtral-offloading) - Run Mixtral-8x7B models in Colab or consumer desktops
 - [avgupta456/github-trends](https://github.com/avgupta456/github-trends) - 🚀 Level up your GitHub profile readme with customizable cards including LOC statistics!
 - [cheshire-cat-ai/core](https://github.com/cheshire-cat-ai/core) - Production ready AI assistant framework
 - [microsoft/TaskWeaver](https://github.com/microsoft/TaskWeaver) - A code-first agent framework for seamlessly planning and executing data analytics tasks.
@@ -313,6 +315,7 @@
 
 ## Rust 
 
+- [prefix-dev/pixi](https://github.com/prefix-dev/pixi) - Package management made easy
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
 - [huggingface/text-embeddings-inference](https://github.com/huggingface/text-embeddings-inference) - A blazing fast inference solution for text embeddings models
 - [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl) - Hurl, run and test HTTP requests with plain text.
