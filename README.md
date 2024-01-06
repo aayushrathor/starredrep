@@ -127,6 +127,7 @@
 
 ## JavaScript 
 
+- [mdx-js/mdx](https://github.com/mdx-js/mdx) - Markdown for the component era
 - [Aylur/dotfiles](https://github.com/Aylur/dotfiles) - My personal config files
 - [jide/gpt-video](https://github.com/jide/gpt-video) - A reproduction of the Gemini demo using GPT-vision.
 - [markdown-it/markdown-it](https://github.com/markdown-it/markdown-it) - Markdown parser, done right. 100% CommonMark support, extensions, syntax plugins & high speed
@@ -252,6 +253,7 @@
 
 ## Python 
 
+- [myshell-ai/OpenVoice](https://github.com/myshell-ai/OpenVoice) - Instant voice cloning by MyShell.
 - [dvmazur/mixtral-offloading](https://github.com/dvmazur/mixtral-offloading) - Run Mixtral-8x7B models in Colab or consumer desktops
 - [avgupta456/github-trends](https://github.com/avgupta456/github-trends) - 🚀 Level up your GitHub profile readme with customizable cards including LOC statistics!
 - [cheshire-cat-ai/core](https://github.com/cheshire-cat-ai/core) - Production ready AI assistant framework
