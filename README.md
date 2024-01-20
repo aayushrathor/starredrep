@@ -127,6 +127,7 @@
 
 ## JavaScript 
 
+- [bigskysoftware/htmx](https://github.com/bigskysoftware/htmx) - &lt;/&gt; htmx - high power tools for HTML
 - [mdx-js/mdx](https://github.com/mdx-js/mdx) - Markdown for the component era
 - [Aylur/dotfiles](https://github.com/Aylur/dotfiles) - My personal config files
 - [jide/gpt-video](https://github.com/jide/gpt-video) - A reproduction of the Gemini demo using GPT-vision.
