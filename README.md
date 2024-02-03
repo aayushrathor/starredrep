@@ -38,6 +38,7 @@
 
 ## C 
 
+- [ggerganov/whisper.cpp](https://github.com/ggerganov/whisper.cpp) - Port of OpenAI's Whisper model in C/C++
 - [kennylevinsen/wlsunset](https://github.com/kennylevinsen/wlsunset) - [mirror] Day/night gamma adjustments for Wayland (https://sr.ht/~kennylevinsen/wlsunset)
 - [AltraMayor/f3](https://github.com/AltraMayor/f3) - F3 - Fight Flash Fraud
 - [davatorium/rofi](https://github.com/davatorium/rofi) - Rofi: A window switcher, application launcher and dmenu replacement
@@ -149,6 +150,8 @@
 
 ## Jupyter Notebook 
 
+- [sanchit-gandhi/whisper-jax](https://github.com/sanchit-gandhi/whisper-jax) - JAX implementation of OpenAI's Whisper model for up to 70x speed-up on TPU.
+- [Luxadevi/Ollama-Colab-Integration](https://github.com/Luxadevi/Ollama-Colab-Integration) - Jupyter Notebooks for Ollama integration
 - [camenduru/LLaVA-colab](https://github.com/camenduru/LLaVA-colab) - 
 - [Troyanovsky/Local-LLM-Comparison-Colab-UI](https://github.com/Troyanovsky/Local-LLM-Comparison-Colab-UI) - Compare the performance of different LLM that can be deployed locally on consumer hardware. Run yourself with Colab WebUI.
 - [samwit/llm-tutorials](https://github.com/samwit/llm-tutorials) - A set of LLM Tutorials from my youtube channel
@@ -300,7 +303,7 @@
 - [ruanbekker/grafana-observability-primer](https://github.com/ruanbekker/grafana-observability-primer) - Grafana Observability Primer
 - [smol-ai/developer](https://github.com/smol-ai/developer) - the first library to let you embed a developer agent in your own app!
 - [langchain-ai/chat-langchain](https://github.com/langchain-ai/chat-langchain) - 
-- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - ⚡ Building applications with LLMs through composability ⚡
+- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications
 - [microservices-demo/microservices-demo](https://github.com/microservices-demo/microservices-demo) - Deployment scripts & config for Sock Shop
 - [arc53/DocsGPT](https://github.com/arc53/DocsGPT) - GPT-powered chat for documentation, chat with your documents
 - [acheong08/ChatGPT](https://github.com/acheong08/ChatGPT) - Reverse engineered ChatGPT API
