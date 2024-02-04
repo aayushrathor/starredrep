@@ -150,6 +150,7 @@
 
 ## Jupyter Notebook 
 
+- [thu-vu92/local-llms-analyse-finance](https://github.com/thu-vu92/local-llms-analyse-finance) - In this project, I explored how local LLMs can be used to label data and support analyses. Specifically, I used Llama2 model to automatically categorise my bank transaction data.
 - [sanchit-gandhi/whisper-jax](https://github.com/sanchit-gandhi/whisper-jax) - JAX implementation of OpenAI's Whisper model for up to 70x speed-up on TPU.
 - [Luxadevi/Ollama-Colab-Integration](https://github.com/Luxadevi/Ollama-Colab-Integration) - Jupyter Notebooks for Ollama integration
 - [camenduru/LLaVA-colab](https://github.com/camenduru/LLaVA-colab) - 
