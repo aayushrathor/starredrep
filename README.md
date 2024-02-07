@@ -349,6 +349,7 @@
 
 ## Shell 
 
+- [Bhupesh-V/ugit](https://github.com/Bhupesh-V/ugit) - 🚨️ ugit helps undo git commands. Your damage control git buddy. Undo from 20+ git scenarios.
 - [sainnhe/tmux-fzf](https://github.com/sainnhe/tmux-fzf) - Use fzf to manage your tmux work environment!
 - [shvedes/dotfiles](https://github.com/shvedes/dotfiles) - No description, website, or topics provided.
 - [moovweb/gvm](https://github.com/moovweb/gvm) - Go Version Manager
