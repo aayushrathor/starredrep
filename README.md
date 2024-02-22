@@ -149,7 +149,7 @@
 
 ## Jupyter Notebook 
 
-- [Stability-AI/StableCascade](https://github.com/Stability-AI/StableCascade) - 
+- [Stability-AI/StableCascade](https://github.com/Stability-AI/StableCascade) - Official Code for Stable Cascade
 - [thu-vu92/local-llms-analyse-finance](https://github.com/thu-vu92/local-llms-analyse-finance) - In this project, I explored how local LLMs can be used to label data and support analyses. Specifically, I used Llama2 model to automatically categorise my bank transaction data.
 - [sanchit-gandhi/whisper-jax](https://github.com/sanchit-gandhi/whisper-jax) - JAX implementation of OpenAI's Whisper model for up to 70x speed-up on TPU.
 - [Luxadevi/Ollama-Colab-Integration](https://github.com/Luxadevi/Ollama-Colab-Integration) - Jupyter Notebooks for Ollama integration
@@ -199,6 +199,8 @@
 
 ## Others 
 
+- [mkrl/misbrands](https://github.com/mkrl/misbrands) - The world's most hated IT stickers
+- [atfortes/Awesome-LLM-Reasoning](https://github.com/atfortes/Awesome-LLM-Reasoning) - Collection of papers and resources on Reasoning in Language Models (LLMs), including Chain-of-Thought, Instruction-Tuning, Multimodality.
 - [aishwaryanr/awesome-generative-ai-guide](https://github.com/aishwaryanr/awesome-generative-ai-guide) - A one stop repository for generative AI research updates, interview resources, notebooks and much more!
 - [lutris/docs](https://github.com/lutris/docs) - 
 - [shvedes/dotfiles](https://github.com/shvedes/dotfiles) - No description, website, or topics provided.
@@ -261,7 +263,7 @@
 
 ## Python 
 
-- [karpathy/minbpe](https://github.com/karpathy/minbpe) - Minimal, clean, code for the Byte Pair Encoding (BPE) algorithm commonly used in LLM tokenization.
+- [karpathy/minbpe](https://github.com/karpathy/minbpe) - Minimal, clean code for the Byte Pair Encoding (BPE) algorithm commonly used in LLM tokenization.
 - [LargeWorldModel/LWM](https://github.com/LargeWorldModel/LWM) - 
 - [RVC-Boss/GPT-SoVITS](https://github.com/RVC-Boss/GPT-SoVITS) - 1 min voice data can also be used to train a good TTS model! (few shot voice cloning)
 - [FujiwaraChoki/MoneyPrinter](https://github.com/FujiwaraChoki/MoneyPrinter) - Automate Creation of YouTube Shorts using MoviePy.
