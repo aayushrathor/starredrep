@@ -266,6 +266,7 @@
 
 ## Python 
 
+- [abetlen/llama-cpp-python](https://github.com/abetlen/llama-cpp-python) - Python bindings for llama.cpp
 - [keshavksingh/finetuning-llm-azureml](https://github.com/keshavksingh/finetuning-llm-azureml) - Fine Tuning Large Language Models with Azure ML
 - [karpathy/minbpe](https://github.com/karpathy/minbpe) - Minimal, clean code for the Byte Pair Encoding (BPE) algorithm commonly used in LLM tokenization.
 - [LargeWorldModel/LWM](https://github.com/LargeWorldModel/LWM) - 
